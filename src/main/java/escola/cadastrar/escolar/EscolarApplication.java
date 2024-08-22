@@ -10,8 +10,6 @@ public class EscolarApplication {
 		SpringApplication.run(EscolarApplication.class, args);
 
 
-
-
 	}
 	
 }
